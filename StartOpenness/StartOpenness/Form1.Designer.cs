@@ -481,10 +481,10 @@ namespace StartOpenness
             // lblNastaveniStanic
             // 
             this.lblNastaveniStanic.AutoSize = true;
-            this.lblNastaveniStanic.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.lblNastaveniStanic.Location = new System.Drawing.Point(468, 396);
+            this.lblNastaveniStanic.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.lblNastaveniStanic.Location = new System.Drawing.Point(466, 396);
             this.lblNastaveniStanic.Name = "lblNastaveniStanic";
-            this.lblNastaveniStanic.Size = new System.Drawing.Size(155, 25);
+            this.lblNastaveniStanic.Size = new System.Drawing.Size(145, 24);
             this.lblNastaveniStanic.TabIndex = 34;
             this.lblNastaveniStanic.Text = "Nastaveni stanic";
             this.lblNastaveniStanic.Click += new System.EventHandler(this.label6_Click);
